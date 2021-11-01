@@ -2,7 +2,7 @@
 layout: post
 title:  "Tomates deshidratados"
 categories: [ Jekyll ]
-image: assets/images/demo1.jpg
+image: /assets/images/tomatesSecos_00005.jpg
 ---
 
 ## Ingredientes:

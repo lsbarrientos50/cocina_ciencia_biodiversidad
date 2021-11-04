@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Tomates deshidratados"
-categories: [ Jekyll ]
+title:  "Tomates deshidratados al horno"
+categories: [ Recetas, Conservas ]
 image: /assets/images/tomatesSecos_00005.jpg
 ---
+
+Una receta sencilla para deshidratar tomates en casa y obtener una deliciosa y versatil conserva.
+
 
 ## Ingredientes:
 

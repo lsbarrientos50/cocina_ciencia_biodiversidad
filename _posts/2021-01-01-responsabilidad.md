@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Responsabilidad alimentaria "
-author: sal
+author: lucas
 categories: [Ambiental, Social, Sostenibilidad ]
 image: assets/images/2.jpg
+tags: [sticky, featured]
 ---
 
 No solo responsabilidad alimentaria, también social y ambiental 

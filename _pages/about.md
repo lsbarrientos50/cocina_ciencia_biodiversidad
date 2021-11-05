@@ -1,9 +1,8 @@
 ---
 title: "Sobre el Curso"
-layout: page
+layout: post
 permalink: "/about"
 image: "/assets/images/ls_cursoCocina.jpeg"
-comments: true
 ---
 
 

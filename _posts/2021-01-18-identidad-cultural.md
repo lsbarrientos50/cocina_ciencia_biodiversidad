@@ -4,7 +4,7 @@ title:  "La comida como identidad cultural"
 author: lucas
 categories: [ Cultura]
 image: assets/images/home.jpg
-tags: [sticky]
+tags: [sticky, featured]
 ---
 
 #### La comida es una representación de la cultura. 

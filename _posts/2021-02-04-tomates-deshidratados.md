@@ -2,6 +2,8 @@
 layout: post
 title:  "Tomates deshidratados al horno"
 categories: [ Recetas, Conservas ]
+comments: false
+author: Lucas
 image: /assets/images/tomatesSecos_00005.jpg
 ---
 

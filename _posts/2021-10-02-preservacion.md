@@ -3,7 +3,7 @@ layout: post
 title:  "La preservación"
 author: lucas
 categories: [ Cultura, Preservación, Conservas ]
-image: assets/images/17.jpg
+image: assets/images/conserva_ajo.jpeg
 tags: [featured]
 ---
 

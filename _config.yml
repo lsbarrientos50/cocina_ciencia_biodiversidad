@@ -19,9 +19,9 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    lucas:
       name:           Lucas Barrientos
-      #site:           https://www.wowthemes.net
+      site:           https://lsbarrientos50.github.io/
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hola, soy Lucas el creardor y autor del curso Ciencia, cococina y Biodiversidad."
       email:          lucas.barrientos@gmail.com

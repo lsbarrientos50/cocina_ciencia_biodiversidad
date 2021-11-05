@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La preservación"
-author: lucas
+author: Lucas Barrientos
 categories: [ Cultura, Preservación, Conservas ]
 image: assets/images/conserva_ajo.jpeg
 tags: [featured]

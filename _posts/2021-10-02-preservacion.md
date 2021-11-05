@@ -3,7 +3,7 @@ layout: post
 title:  "La preservación"
 author: Lucas Barrientos
 categories: [ Cultura, Preservación, Conservas ]
-image: assets/images/conserva_ajo.jpeg
+image: assets/images/conserva-ajos.png
 tags: [featured]
 ---
 

@@ -2,7 +2,7 @@
 title: "Sobre el Curso"
 layout: post
 permalink: "/about"
-image: "/assets/images/lucas_cocinando.jpeg"
+image: /assets/images/lucas-cocinando.jpeg
 ---
 
 

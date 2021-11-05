@@ -3,7 +3,7 @@ layout: post
 title:  "La comida como identidad cultural"
 author: lucas
 categories: [ Cultura]
-image: assets/images/home.jpg
+image: https://thumbnails.production.thenounproject.com/ZHwA1RLZRUdCMDEUHVLfW37MoSM=/fit-in/1000x1000/photos.production.thenounproject.com/photos/ED1B27D6-0957-410B-81D2-D51310AEC2D2.jpg
 tags: [sticky, featured]
 ---
 

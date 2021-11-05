@@ -1,6 +1,6 @@
 ---
 title: "Sobre el Curso"
-layout: page-sidebar
+layout: default
 permalink: "/about"
 image: "/assets/images/ls_cursoCocina.jpeg"
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tortilla de papas"
-author: Lucas
+author: "Lucas"
 categories: [ Recetas, España ]
 image: /assets/images/tortillaPapa_00003.jpeg
 ---

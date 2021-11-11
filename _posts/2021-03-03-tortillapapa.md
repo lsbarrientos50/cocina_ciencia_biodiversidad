@@ -3,7 +3,7 @@ layout: post
 title:  "Tortilla de papas"
 author: lucas
 categories: [ Recetas, España ]
-image: /assets/images/2021-11-11_Chiffon2.jpg
+image: /assets/images/tortillaPapa_00001.jpeg
 ---
 
 Esta es una deliciosa y esponjosa torta. 
